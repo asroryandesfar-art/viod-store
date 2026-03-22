@@ -1,6 +1,4 @@
-Use this shared code block as the starting point. When you respond with code, return the full updated code block, not just a diff or excerpt.
 
-```html
 <!DOCTYPE html>
 <html lang="id">
 <head>
